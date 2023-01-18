@@ -1,0 +1,2 @@
+Percentage of 1's: 59.07668100634405
+Percentage of 0's: 40.92331899365595
